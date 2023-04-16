@@ -15,3 +15,4 @@ Skills: REACT / JS / HTML / CSS / Node / C++/ Data Structures / DBMS
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/17ved/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://17ved.github.io/devthombarevedpfolio.github.io/)  
 
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
