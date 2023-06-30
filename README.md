@@ -16,7 +16,10 @@ Skills: REACT / JS / HTML / CSS / Node / C++/ Data Structures / DBMS
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,cpp,mysql,git,github,linux,vscode"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js"/> </br>
+       <img src="https://skillicons.dev/icons?i=mongodb,expressjs,react,nodejs"/> </br>
+    <img src="https://skillicons.dev/icons?i=cpp,mysql,git,github,linux,vscode"/>
+
   </a>
 </p>
 
