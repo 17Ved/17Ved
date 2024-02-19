@@ -6,7 +6,7 @@ Whatever I've learnt from YouTube and other resources, I've made repos that will
 
 - 🌱 I’m currently learning DSA 
 - 📫 How to reach me: E-mail - vedantthombare792@gmail.com 
-- 📫 LinkedIn Profile -  https://www.linkedin.com/in/vedant-thombare-a28913183/
+- 📫 LinkedIn Profile -  https://www.linkedin.com/in/vedant-thombare/
 - Checkout my Portfolio here - https://17ved.github.io/devthombarevedpfolio.github.io/
  
 
