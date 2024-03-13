@@ -4,7 +4,7 @@
 Making these repositories to share my knowledge with you guys !. 
 Whatever I've learnt from YouTube and other resources, I've made repos that will explain you in detail. Of Course you can use it & gain knowledge in simple terms !.
 
-- 🌱 I’m currently learning DSA 
+- 🌱 Currently studying MERN Stack. 
 - 📫 How to reach me: E-mail - vedantthombare792@gmail.com 
 - 📫 LinkedIn Profile -  https://www.linkedin.com/in/vedant-thombare/
 - Checkout my Portfolio here - https://devportfolioved.netlify.app/
